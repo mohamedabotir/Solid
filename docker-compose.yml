@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  srp:
+    image: ${DOCKER_REGISTRY-}srp
+    build:
+      context: .\SRP
+      dockerfile: Dockerfile
