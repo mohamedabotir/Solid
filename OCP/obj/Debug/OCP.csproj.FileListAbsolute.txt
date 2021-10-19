@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\Solid\OCP\bin\Debug\OCP.exe.config
+C:\Users\moham\source\repos\Solid\OCP\bin\Debug\OCP.exe
+C:\Users\moham\source\repos\Solid\OCP\bin\Debug\OCP.pdb
+C:\Users\moham\source\repos\Solid\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Solid\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Solid\OCP\obj\Debug\OCP.exe
+C:\Users\moham\source\repos\Solid\OCP\obj\Debug\OCP.pdb

@@ -1,0 +1,11 @@
+networks:
+  default:
+    external: true
+    name: nat
+services:
+  srp:
+    build:
+      context: C:\Users\moham\source\repos\Solid\SRP
+      dockerfile: Dockerfile
+    image: srp
+version: '3.4'
