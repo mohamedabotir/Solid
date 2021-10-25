@@ -5,7 +5,7 @@ networks:
 services:
   srp:
     build:
-      context: C:\Users\moham\source\repos\SolidPractices\SRP
+      context: C:\Users\moham\source\repos\Solid\SRP
       dockerfile: Dockerfile
     image: srp
 version: '3.4'

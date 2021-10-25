@@ -1,0 +1,16 @@
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\LSP.exe
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\LSP.deps.json
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\LSP.runtimeconfig.json
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\LSP.runtimeconfig.dev.json
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\LSP.dll
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\ref\LSP.dll
+C:\Users\moham\source\repos\Solid\LSP\bin\Debug\net5.0\LSP.pdb
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.AssemblyInfo.cs
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.dll
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\ref\LSP.dll
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.pdb
+C:\Users\moham\source\repos\Solid\LSP\obj\Debug\net5.0\LSP.genruntimeconfig.cache

@@ -9,6 +9,8 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP\OCP.csproj", "{2EA37722-945C-4C04-A689-20A599EA3089}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{27CA5D0E-22CF-4F4B-978C-B203B06EEA65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2EA37722-945C-4C04-A689-20A599EA3089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EA37722-945C-4C04-A689-20A599EA3089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EA37722-945C-4C04-A689-20A599EA3089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CA5D0E-22CF-4F4B-978C-B203B06EEA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CA5D0E-22CF-4F4B-978C-B203B06EEA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CA5D0E-22CF-4F4B-978C-B203B06EEA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA5D0E-22CF-4F4B-978C-B203B06EEA65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

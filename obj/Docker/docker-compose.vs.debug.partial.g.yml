@@ -11,7 +11,7 @@ services:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "SRP"
     volumes:
-      - C:\Users\moham\source\repos\SolidPractices\SRP:C:\app
+      - C:\Users\moham\source\repos\Solid\SRP:C:\app
       - :C:\remote_debugger:ro
     entrypoint: cmd /c "set DISABLE_PERFORMANCE_DEBUGGER=1 & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
     labels:
